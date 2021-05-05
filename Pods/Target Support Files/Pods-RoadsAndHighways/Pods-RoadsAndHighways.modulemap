@@ -1,0 +1,6 @@
+framework module Pods_RoadsAndHighways {
+  umbrella header "Pods-RoadsAndHighways-umbrella.h"
+
+  export *
+  module * { export * }
+}

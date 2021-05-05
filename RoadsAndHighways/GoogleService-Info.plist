@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>974037072473-8vmodp673o0qp423cn06ur735fn4gndf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.974037072473-8vmodp673o0qp423cn06ur735fn4gndf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>974037072473-ebtq78qo2a84hqvk6m53qlncvbohv93h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-N4oNJrlembKhwAYvxse5_YcS-dbmgEc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>974037072473</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fahimrahman.RoadsAndHighways</string>
+	<key>PROJECT_ID</key>
+	<string>rhd-app-8bc71</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rhd-app-8bc71.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:974037072473:ios:fd668e780c9e88e44b8f48</string>
+	<key>DATABASE_URL</key>
+	<string>https://rhd-app-8bc71.firebaseio.com</string>
+</dict>
+</plist>
